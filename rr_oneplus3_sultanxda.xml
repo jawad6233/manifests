@@ -45,7 +45,6 @@
   
   <remove-project name="android_packages_apps_CMParts" />
   <project path="packages/apps/CMParts" name="ZeNiXxX/android_packages_apps_CMParts" remote="github" revision="znx_n"/>
-  <project name="EAS-Project/android_device_voxpopuli" path="device/voxpopuli" remote="github" revision="msm8996" />
  
   <!--Repositories to remove-->
   <remove-project name="platform/prebuilts/clang/darwin-x86/host/3.6" />
