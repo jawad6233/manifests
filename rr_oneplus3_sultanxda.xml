@@ -53,6 +53,9 @@
  
   <remove-project name="android_vendor_resurrection" />
   <project path="vendor/cm" name="FraEgg/android_vendor_resurrection" revision="nougat-luis" />
+ 
+ <remove-project name="android_packages_apps_CMParts" />
+ <project path="packages/apps/CMParts" name="FraEgg/android_packages_apps_CMParts" revision="cm-14.1-luis"/>
   
  <!--Repositories to remove-->
   <remove-project name="platform/prebuilts/clang/darwin-x86/host/3.6" />
